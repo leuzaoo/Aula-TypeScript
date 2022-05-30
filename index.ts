@@ -9,3 +9,5 @@ function sum(a: number, b: number) {
 button.addEventListener("click", function () {
   console.log(sum(Number(input1.value), Number(input2.value)));
 });
+
+export {};
