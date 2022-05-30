@@ -68,4 +68,3 @@ interface GameDetails{
 // Necessita ser compilado;
 // Precisa de um aprendizado inicial dos tipos e boas práticas;
 // Os erros nem sempre são claros ou então muito grandes;
-// 
